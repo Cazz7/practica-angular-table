@@ -1,0 +1,297 @@
+{
+  "EmpDataSet": {
+    "d": {
+      "results": [
+        {
+          "__metadata": {
+            "id": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000001')",
+            "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000001')",
+            "type": "YEMPLOYEE_INF_SRV.EmpData"
+          },
+          "Compliance": "099",
+          "Countryname": "MEXICO",
+          "EmpId": "1000000001",
+          "Mandt": "200",
+          "Name": "JOSE MONTOYA",
+          "Address": "ST 30",
+          "Salary": "1000",
+          "Curcode": "USD",
+          "EmpDataDetailNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000001')/EmpDataDetailNavig"
+            }
+          },
+          "EmpDataSkillsNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000001')/EmpDataSkillsNavig"
+            }
+          }
+        },
+        {
+          "__metadata": {
+            "id": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000002')",
+            "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000002')",
+            "type": "YEMPLOYEE_INF_SRV.EmpData"
+          },
+          "Compliance": "080",
+          "Countryname": "USA",
+          "EmpId": "1000000002",
+          "Mandt": "200",
+          "Name": "KAYLEE WASHINGTON",
+          "Address": "ST 35",
+          "Salary": "1200",
+          "Curcode": "USD",
+          "EmpDataDetailNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000002')/EmpDataDetailNavig"
+            }
+          },
+          "EmpDataSkillsNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000002')/EmpDataSkillsNavig"
+            }
+          }
+        },
+        {
+          "__metadata": {
+            "id": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000004')",
+            "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000004')",
+            "type": "YEMPLOYEE_INF_SRV.EmpData"
+          },
+          "Compliance": "070",
+          "Countryname": "USA",
+          "EmpId": "1000000004",
+          "Mandt": "200",
+          "Name": "JOHN WICK",
+          "Address": "ST 40",
+          "Salary": "2100",
+          "Curcode": "USD",
+          "EmpDataDetailNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000004')/EmpDataDetailNavig"
+            }
+          },
+          "EmpDataSkillsNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000004')/EmpDataSkillsNavig"
+            }
+          }
+        },
+        {
+          "__metadata": {
+            "id": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000005')",
+            "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000005')",
+            "type": "YEMPLOYEE_INF_SRV.EmpData"
+          },
+          "Compliance": "060",
+          "Countryname": "COLOMBIA",
+          "EmpId": "1000000005",
+          "Mandt": "200",
+          "Name": "JUAN QUICENO",
+          "Address": "CALLE 10",
+          "Salary": "500",
+          "Curcode": "COP",
+          "EmpDataDetailNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000005')/EmpDataDetailNavig"
+            }
+          },
+          "EmpDataSkillsNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000005')/EmpDataSkillsNavig"
+            }
+          }
+        },
+        {
+          "__metadata": {
+            "id": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000006')",
+            "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000006')",
+            "type": "YEMPLOYEE_INF_SRV.EmpData"
+          },
+          "Compliance": "020",
+          "Countryname": "COLOMBIA",
+          "EmpId": "1000000006",
+          "Mandt": "200",
+          "Name": "ANTONIO ROLDAN",
+          "Address": "ST 99",
+          "Salary": "1000",
+          "Curcode": "COP",
+          "EmpDataDetailNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000006')/EmpDataDetailNavig"
+            }
+          },
+          "EmpDataSkillsNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpDataSet('1000000006')/EmpDataSkillsNavig"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "EmpSkillsSet": {
+    "d": {
+      "results": [
+        {
+          "__metadata": {
+            "id": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000001',SkillId='01')",
+            "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000001',SkillId='01')",
+            "type": "YEMPLOYEE_INF_SRV.EmpSkills"
+          },
+          "Mandt": "200",
+          "EmpId": "1000000001",
+          "SkillId": "01",
+          "SkillName": "ENGLISH",
+          "CertificateCode": "8899881122",
+          "ProfLevel": "5",
+          "CertDate": "/Date(1701388800000)/",
+          "EmpSkillsDataNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000001',SkillId='01')/EmpSkillsDataNavig"
+            }
+          }
+        },
+        {
+          "__metadata": {
+            "id": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000001',SkillId='02')",
+            "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000001',SkillId='02')",
+            "type": "YEMPLOYEE_INF_SRV.EmpSkills"
+          },
+          "Mandt": "200",
+          "EmpId": "1000000001",
+          "SkillId": "02",
+          "SkillName": "JAVASCRIPT",
+          "CertificateCode": "1199885522",
+          "ProfLevel": "8",
+          "CertDate": "/Date(1672272000000)/",
+          "EmpSkillsDataNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000001',SkillId='02')/EmpSkillsDataNavig"
+            }
+          }
+        },
+        {
+          "__metadata": {
+            "id": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000002',SkillId='01')",
+            "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000002',SkillId='01')",
+            "type": "YEMPLOYEE_INF_SRV.EmpSkills"
+          },
+          "Mandt": "200",
+          "EmpId": "1000000002",
+          "SkillId": "01",
+          "SkillName": "ENGLISH",
+          "CertificateCode": "9922112211",
+          "ProfLevel": "7",
+          "CertDate": "/Date(1673136000000)/",
+          "EmpSkillsDataNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000002',SkillId='01')/EmpSkillsDataNavig"
+            }
+          }
+        },
+        {
+          "__metadata": {
+            "id": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000002',SkillId='02')",
+            "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000002',SkillId='02')",
+            "type": "YEMPLOYEE_INF_SRV.EmpSkills"
+          },
+          "Mandt": "200",
+          "EmpId": "1000000002",
+          "SkillId": "02",
+          "SkillName": "NODEJS",
+          "CertificateCode": "1199885522",
+          "ProfLevel": "9",
+          "CertDate": "/Date(1668902400000)/",
+          "EmpSkillsDataNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000002',SkillId='02')/EmpSkillsDataNavig"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "EmpDetailSet": {
+    "d": {
+      "results": [
+        {
+          "__metadata": {
+            "id": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000001',SkillId='01')",
+            "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000001',SkillId='01')",
+            "type": "YEMPLOYEE_INF_SRV.EmpSkills"
+          },
+          "Mandt": "200",
+          "EmpId": "1000000001",
+          "SkillId": "01",
+          "SkillName": "ENGLISH",
+          "CertificateCode": "8899881122",
+          "ProfLevel": "5",
+          "CertDate": "/Date(1701388800000)/",
+          "EmpSkillsDataNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000001',SkillId='01')/EmpSkillsDataNavig"
+            }
+          }
+        },
+        {
+          "__metadata": {
+            "id": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000001',SkillId='02')",
+            "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000001',SkillId='02')",
+            "type": "YEMPLOYEE_INF_SRV.EmpSkills"
+          },
+          "Mandt": "200",
+          "EmpId": "1000000001",
+          "SkillId": "02",
+          "SkillName": "JAVASCRIPT",
+          "CertificateCode": "1199885522",
+          "ProfLevel": "8",
+          "CertDate": "/Date(1672272000000)/",
+          "EmpSkillsDataNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000001',SkillId='02')/EmpSkillsDataNavig"
+            }
+          }
+        },
+        {
+          "__metadata": {
+            "id": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000002',SkillId='01')",
+            "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000002',SkillId='01')",
+            "type": "YEMPLOYEE_INF_SRV.EmpSkills"
+          },
+          "Mandt": "200",
+          "EmpId": "1000000002",
+          "SkillId": "01",
+          "SkillName": "ENGLISH",
+          "CertificateCode": "9922112211",
+          "ProfLevel": "7",
+          "CertDate": "/Date(1673136000000)/",
+          "EmpSkillsDataNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000002',SkillId='01')/EmpSkillsDataNavig"
+            }
+          }
+        },
+        {
+          "__metadata": {
+            "id": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000002',SkillId='02')",
+            "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000002',SkillId='02')",
+            "type": "YEMPLOYEE_INF_SRV.EmpSkills"
+          },
+          "Mandt": "200",
+          "EmpId": "1000000002",
+          "SkillId": "02",
+          "SkillName": "NODEJS",
+          "CertificateCode": "1199885522",
+          "ProfLevel": "9",
+          "CertDate": "/Date(1668902400000)/",
+          "EmpSkillsDataNavig": {
+            "__deferred": {
+              "uri": "https://staffitint.deloitteresources.com/sap/opu/odata/sap/YEMPLOYEE_INF_SRV/EmpSkillsSet(EmpId='1000000002',SkillId='02')/EmpSkillsDataNavig"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

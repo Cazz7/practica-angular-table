@@ -1,0 +1,134 @@
+
+{
+  "d": {
+  "employees": [
+      {
+          "Compliance": "099",
+          "Countryname": "MEXICO",
+          "EmpId": "1000000001",
+          "Mandt": "200",
+          "Name": "JOSE MONTOYA",
+          "Address": "ST 30",
+          "Salary": "1000",
+          "Curcode": "USD"
+      },
+      {
+          "Compliance": "080",
+          "Countryname": "USA",
+          "EmpId": "1000000002",
+          "Mandt": "200",
+          "Name": "KAYLEE WASHINGTON",
+          "Address": "ST 35",
+          "Salary": "1200",
+          "Curcode": "USD"
+      },
+      {
+          "Compliance": "070",
+          "Countryname": "USA",
+          "EmpId": "1000000004",
+          "Mandt": "200",
+          "Name": "JOHN WICK",
+          "Address": "ST 40",
+          "Salary": "2100",
+          "Curcode": "USD"
+      },
+      {
+
+          "Compliance": "060",
+          "Countryname": "COLOMBIA",
+          "EmpId": "1000000005",
+          "Mandt": "200",
+          "Name": "JUAN QUICENO",
+          "Address": "CALLE 10",
+          "Salary": "500",
+          "Curcode": "COP"
+      },
+      {
+
+          "Compliance": "020",
+          "Countryname": "COLOMBIA",
+          "EmpId": "1000000006",
+          "Mandt": "200",
+          "Name": "ANTONIO ROLDAN",
+          "Address": "ST 99",
+          "Salary": "1000",
+          "Curcode": "COP"
+      }
+  ],
+  "skills": [
+    {
+        "Mandt": "200",
+        "EmpId": "1000000001",
+        "SkillId": "01",
+        "SkillName": "ENGLISH",
+        "CertificateCode": "8899881122",
+        "ProfLevel": "5",
+        "CertDate": "/Date(1701388800000)/"
+    },
+    {
+        "Mandt": "200",
+        "EmpId": "1000000001",
+        "SkillId": "02",
+        "SkillName": "JAVASCRIPT",
+        "CertificateCode": "1199885522",
+        "ProfLevel": "8",
+        "CertDate": "/Date(1672272000000)/"
+    },
+    {
+        "Mandt": "200",
+        "EmpId": "1000000002",
+        "SkillId": "01",
+        "SkillName": "ENGLISH",
+        "CertificateCode": "9922112211",
+        "ProfLevel": "7",
+        "CertDate": "/Date(1673136000000)/"
+    },
+    {
+        "Mandt": "200",
+        "EmpId": "1000000002",
+        "SkillId": "02",
+        "SkillName": "NODEJS",
+        "CertificateCode": "1199885522",
+        "ProfLevel": "9",
+        "CertDate": "/Date(1668902400000)/"
+    }
+  ],
+  "details": [
+    {
+        "EmpId": "1000000001",
+        "LeaderId": "1000000004",
+        "Birthdate": "/Date(660960000000)/",
+        "Hiredate": "/Date(976579200000)/",
+        "Area": "TECHNOLOGY"
+    },
+    {
+        "EmpId": "1000000002",
+        "LeaderId": "1000000004",
+        "Birthdate": "/Date(496972800000)/",
+        "Hiredate": "/Date(812505600000)/",
+        "Area": "TECHNOLOGY"
+    },
+    {
+        "EmpId": "1000000004",
+        "LeaderId": "1000000004",
+        "Birthdate": "/Date(-20736000000)/",
+        "Hiredate": "/Date(326419200000)/",
+        "Area": "LEADERSHIP"
+    },
+    {
+        "EmpId": "1000000005",
+        "LeaderId": "1000000004",
+        "Birthdate": "/Date(153446400000)/",
+        "Hiredate": "/Date(658368000000)/",
+        "Area": "CONSULTING"
+    },
+    {
+        "EmpId": "1000000006",
+        "LeaderId": "1000000002",
+        "Birthdate": "/Date(949536000000)/",
+        "Hiredate": "/Date(1643846400000)/",
+        "Area": "CONSULTING"
+    }
+  ]
+}
+}

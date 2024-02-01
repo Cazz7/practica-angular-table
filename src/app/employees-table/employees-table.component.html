@@ -1,0 +1,63 @@
+<div class="w-4/4 shadow-md p-10 bg-white shadow-blue-200/20 mx-36 my-10">
+
+  <div class="flex justify-between items-center m-4">
+
+    <input type="text" placeholder="Search" class="w-full border p-2 rounded-lg"
+    #filter (keyup)="filterData(filter.value)" >
+    <select class="border p-2 rounded-lg" #pickedPageSize (change)="changePageSize($event)">
+      <option *ngFor="let size of pageSizes" [value]="size"> {{ size }}</option>
+    </select>
+
+  </div>
+
+  <table class="w-full border-4">
+    <thead>
+      <tr>
+        <th class="p-3 text-left bg-gray-200">#</th>
+        <th class="p-3 text-left bg-gray-200">Id</th>
+        <th class="p-3 text-left bg-gray-200">Name</th>
+        <th class="p-3 text-left bg-gray-200">Compliance</th>
+        <th class="p-3 text-left bg-gray-200">Address</th>
+        <th class="p-3 text-left bg-gray-200">Country</th>
+        <th class="p-3 text-left bg-gray-200">Salary</th>
+        <th class="p-3 text-left bg-gray-200">Currency</th>
+        <th class="p-3 text-left bg-gray-200">Action</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="border-2" *ngFor="let emp of visibleData(); let i = index">
+        <td class="p-3 border-2">{{ i + 1}}</td>
+        <td class="p-3 border-2">{{ emp.EmpId }}</td>
+        <td class="p-3 border-2">{{ emp.Name }}</td>
+        <td class="p-3 border-2">{{ emp.Compliance }}</td>
+        <td class="p-3 border-2">{{ emp.Address }}</td>
+        <td class="p-3 border-2">{{ emp.Countryname }}</td>
+        <td class="p-3 border-2">{{ emp.Salary }}</td>
+        <td class="p-3 border-2">{{ emp.Curcode }}</td>
+        <td class="p-3 border-2"></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="mt-4 flex items-center justify-center">
+    <button
+    class="text-cyan-500 border-4 py-2 px-4 rounded-l-lg cursor-pointer mr-5"
+    (click)="previousPage()">
+    Previous
+  </button>
+  <button *ngFor="let pageNumber of pageNumbers(); let i = index"
+  class="py-2 px-4 cursor-pointer"
+  [class.bg-cyan-500]="i+1 == currentPage"
+  [class.text-white]="i+1 == currentPage"
+  (click)="changePage(i+1)"
+  >
+  {{ i + 1 }}
+</button>
+<button
+class="text-cyan-500 border-4 py-2 px-4 cursor-pointer rounded-r-lg ml-5"
+(click)="nextPage()">
+Next
+</button>
+</div>
+
+</div>
